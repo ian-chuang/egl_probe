@@ -1,5 +1,7 @@
 # egl_probe
 
+pip install git+https://github.com/ian-chuang/egl_probe.git
+
 Author: Fei Xia (feixia@stanford.edu)
 
 Adapted from (https://github.com/erwincoumans/egl_example).
